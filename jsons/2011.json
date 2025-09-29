@@ -1,0 +1,202 @@
+[
+    {
+        "UC":"PARNA dos Campos Amazônicos",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":19103.312755,
+        "Área UC (ha)":1217823.1000000001,
+        "% da UC":1.5686443093,
+        "Data Última Atualização":1314835200000
+    },
+    {
+        "UC":"PARNA de Pacaás Novos",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":9169.268895,
+        "Área UC (ha)":608975.53,
+        "% da UC":1.5056875758,
+        "Data Última Atualização":1313625600000
+    },
+    {
+        "UC":"REBIO do Guaporé",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":8512.874417,
+        "Área UC (ha)":615771.5600000001,
+        "% da UC":1.3824728146,
+        "Data Última Atualização":1314921600000
+    },
+    {
+        "UC":"FLONA do Bom Futuro",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":746.402086,
+        "Área UC (ha)":97384.49,
+        "% da UC":0.7664486265,
+        "Data Última Atualização":1314230400000
+    },
+    {
+        "UC":"FLONA do Jamanxim",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":1876.796868,
+        "Área UC (ha)":1301643.530544,
+        "% da UC":0.1441867012,
+        "Data Última Atualização":1313020800000
+    },
+    {
+        "UC":"PARNA  de Mapinguari",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":1670.642916,
+        "Área UC (ha)":1784425.84246,
+        "% da UC":0.0936235553,
+        "Data Última Atualização":1314230400000
+    },
+    {
+        "UC":"ESEC da Terra do Meio",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":787.100881,
+        "Área UC (ha)":3373066.1041279999,
+        "% da UC":0.0233348786,
+        "Data Última Atualização":1313020800000
+    },
+    {
+        "UC":"REVIS das Veredas do Oeste Baiano*",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":62697.29881,
+        "Área UC (ha)":128048.98801,
+        "% da UC":48.9635254322,
+        "Data Última Atualização":1317254400000
+    },
+    {
+        "UC":"FLONA de Brasília*",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":2921.235912,
+        "Área UC (ha)":9336.14292883,
+        "% da UC":31.2895371704,
+        "Data Última Atualização":1316131200000
+    },
+    {
+        "UC":"PARNA das Sempre-Vivas",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":34690.097748,
+        "Área UC (ha)":124154.465128,
+        "% da UC":27.9410794547,
+        "Data Última Atualização":1317254400000
+    },
+    {
+        "UC":"ESEC Serra Geral do Tocantins*comparativo",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":185084.289925,
+        "Área UC (ha)":708212.0,
+        "% da UC":26.1340234174,
+        "Data Última Atualização":1317945600000
+    },
+    {
+        "UC":"PARNA das Nascentes do Rio Parnaíba*",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":120406.75726,
+        "Área UC (ha)":724324.0,
+        "% da UC":16.6233284083,
+        "Data Última Atualização":1317254400000
+    },
+    {
+        "UC":"PARNA do Araguaia",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":84400.006061,
+        "Área UC (ha)":555517.0,
+        "% da UC":15.193055489,
+        "Data Última Atualização":1317945600000
+    },
+    {
+        "UC":"RESEX Lago do Cedro",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":2533.648225,
+        "Área UC (ha)":17403.969749,
+        "% da UC":14.5578753672,
+        "Data Última Atualização":1315872000000
+    },
+    {
+        "UC":"PARNA da Serra da Canastra",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":28404.135123,
+        "Área UC (ha)":197809.0,
+        "% da UC":14.3593745092,
+        "Data Última Atualização":1317945600000
+    },
+    {
+        "UC":"PARNA da Serra do Cipó*",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":4426.538073,
+        "Área UC (ha)":31639.181522,
+        "% da UC":13.9906845249,
+        "Data Última Atualização":1317254400000
+    },
+    {
+        "UC":"ESEC de Uruçuí-Una",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":16543.777229,
+        "Área UC (ha)":137148.0,
+        "% da UC":12.0627185442,
+        "Data Última Atualização":1318291200000
+    },
+    {
+        "UC":"APA do Morro da Pedreira",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":9821.639786,
+        "Área UC (ha)":131769.368083,
+        "% da UC":7.4536593207,
+        "Data Última Atualização":1323734400000
+    },
+    {
+        "UC":"PARNA Grande Sertão Veredas",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":7544.647762,
+        "Área UC (ha)":230853.0,
+        "% da UC":3.2681610211,
+        "Data Última Atualização":1317254400000
+    },
+    {
+        "UC":"PARNA das Emas",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":1560.194128,
+        "Área UC (ha)":132642.0,
+        "% da UC":1.1762444233,
+        "Data Última Atualização":1313625600000
+    },
+    {
+        "UC":"PARNA de Brasília",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":135.5,
+        "Área UC (ha)":40397.0,
+        "% da UC":0.3354209471,
+        "Data Última Atualização":1320105600000
+    },
+    {
+        "UC":"PARNA da Chapada das Mesas",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":25594.103422,
+        "Área UC (ha)":159951.0,
+        "% da UC":16.0012150108,
+        "Data Última Atualização":1287532800000
+    },
+    {
+        "UC":"REBIO da Contagem",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":272.9,
+        "Área UC (ha)":3448.0,
+        "% da UC":7.9147331787,
+        "Data Última Atualização":1320105600000
+    },
+    {
+        "UC":"ESEC de Taiamã",
+        "Bioma":"Pantanal",
+        "Área Queimada (ha)":1107.511909,
+        "Área UC (ha)":14253.0265042,
+        "% da UC":7.7703630781,
+        "Data Última Atualização":1320796800000
+    },
+    {
+        "UC":"TOTAL",
+        "Bioma":null,
+        "Área Queimada (ha)":630010.6801909999,
+        "Área UC (ha)":null,
+        "% da UC":null,
+        "Data Última Atualização":null
+    }
+]

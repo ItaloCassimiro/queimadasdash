@@ -1,0 +1,426 @@
+[
+    {
+        "Unidades de Conservação":"APA Morro da Pedreira",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":5852.609461,
+        "Área UC (ha)":100131.3,
+        "% da UC":5.8449350613,
+        "Data Última Atualização":1476921600000
+    },
+    {
+        "Unidades de Conservação":"ESEC da Terra do Meio",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":347.818726,
+        "Área UC (ha)":3373066.1041279999,
+        "% da UC":0.0103116487,
+        "Data Última Atualização":1470614400000
+    },
+    {
+        "Unidades de Conservação":"ESEC de Caracaraí",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":731.392841,
+        "Área UC (ha)":86794.914156,
+        "% da UC":0.8426678546,
+        "Data Última Atualização":1460332800000
+    },
+    {
+        "Unidades de Conservação":"ESEC de Uruçuí-Una",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":28439.7,
+        "Área UC (ha)":137148.0,
+        "% da UC":20.7365036311,
+        "Data Última Atualização":1478390400000
+    },
+    {
+        "Unidades de Conservação":"ESEC Serra Geral do Tocantins",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":229960.22,
+        "Área UC (ha)":707087.5566107035,
+        "% da UC":32.5221703946,
+        "Data Última Atualização":1479772800000
+    },
+    {
+        "Unidades de Conservação":"FLONA de Altamira",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":3586.41625,
+        "Área UC (ha)":723185.982599,
+        "% da UC":0.4959189387,
+        "Data Última Atualização":1473033600000
+    },
+    {
+        "Unidades de Conservação":"FLONA de Balata-Tufari",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":587.32285,
+        "Área UC (ha)":1052954.9299999999,
+        "% da UC":0.0557785365,
+        "Data Última Atualização":1472083200000
+    },
+    {
+        "Unidades de Conservação":"FLONA de Brasília",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":1610.367628,
+        "Área UC (ha)":9336.246379,
+        "% da UC":17.2485553897,
+        "Data Última Atualização":1471824000000
+    },
+    {
+        "Unidades de Conservação":"FLONA de Roraima",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":1584.552965,
+        "Área UC (ha)":169570.470283,
+        "% da UC":0.9344510057,
+        "Data Última Atualização":1458691200000
+    },
+    {
+        "Unidades de Conservação":"FLONA do Amazonas",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":2830.372034,
+        "Área UC (ha)":1942389.23006,
+        "% da UC":0.1457160074,
+        "Data Última Atualização":1458950400000
+    },
+    {
+        "Unidades de Conservação":"FLONA do Bom Futuro",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":1299.176928,
+        "Área UC (ha)":97385.2524351024,
+        "% da UC":1.3340592087,
+        "Data Última Atualização":1475193600000
+    },
+    {
+        "Unidades de Conservação":"FLONA do Itacaiunas",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":237.653935,
+        "Área UC (ha)":136679.561138,
+        "% da UC":0.1738767179,
+        "Data Última Atualização":1474588800000
+    },
+    {
+        "Unidades de Conservação":"FLONA do Jamanxim",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":25239.689325,
+        "Área UC (ha)":1301643.530544,
+        "% da UC":1.9390630947,
+        "Data Última Atualização":1477180800000
+    },
+    {
+        "Unidades de Conservação":"PARNA da Chapada Diamantina",
+        "Bioma":"Caatinga",
+        "Área Queimada (ha)":2274.813105,
+        "Área UC (ha)":152143.877007906,
+        "% da UC":1.4951722999,
+        "Data Última Atualização":1468022400000
+    },
+    {
+        "Unidades de Conservação":"PARNA da Chapada dos Guimarães",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":2651.690763,
+        "Área UC (ha)":32646.83,
+        "% da UC":8.1223529605,
+        "Data Última Atualização":1473379200000
+    },
+    {
+        "Unidades de Conservação":"PARNA da Chapada dos Veadeiros",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":183.775804,
+        "Área UC (ha)":64796.12,
+        "% da UC":0.2836216181,
+        "Data Última Atualização":1470441600000
+    },
+    {
+        "Unidades de Conservação":"PARNA da Serra da Canastra",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":91519.854202,
+        "Área UC (ha)":197809.0,
+        "% da UC":46.2667796723,
+        "Data Última Atualização":1479686400000
+    },
+    {
+        "Unidades de Conservação":"PARNA da Serra das Confusões",
+        "Bioma":"Caatinga",
+        "Área Queimada (ha)":3965.5,
+        "Área UC (ha)":823854.539077,
+        "% da UC":0.4813349702,
+        "Data Última Atualização":1478217600000
+    },
+    {
+        "Unidades de Conservação":"PARNA da Serra do Cipó",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":1288.151441,
+        "Área UC (ha)":31639.53,
+        "% da UC":4.0713355761,
+        "Data Última Atualização":1476921600000
+    },
+    {
+        "Unidades de Conservação":"PARNA da Serra Geral",
+        "Bioma":"Mata Atlântica",
+        "Área Queimada (ha)":198.226565,
+        "Área UC (ha)":17302.008177,
+        "% da UC":1.1456853041,
+        "Data Última Atualização":1473984000000
+    },
+    {
+        "Unidades de Conservação":"PARNA das Emas",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":26217.092302,
+        "Área UC (ha)":132642.0,
+        "% da UC":19.765302319,
+        "Data Última Atualização":1477699200000
+    },
+    {
+        "Unidades de Conservação":"PARNA das Nascentes do Rio Parnaíba",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":171540.763422,
+        "Área UC (ha)":724329.3169529052,
+        "% da UC":23.6827033515,
+        "Data Última Atualização":1477440000000
+    },
+    {
+        "Unidades de Conservação":"PARNA das Sempre-Vivas",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":4051.965036,
+        "Área UC (ha)":124155.899319,
+        "% da UC":3.2636105559,
+        "Data Última Atualização":1473897600000
+    },
+    {
+        "Unidades de Conservação":"PARNA de Aparados da Serra",
+        "Bioma":"Mata Atlântica",
+        "Área Queimada (ha)":288.963501,
+        "Área UC (ha)":13148.042074,
+        "% da UC":2.1977683017,
+        "Data Última Atualização":1473984000000
+    },
+    {
+        "Unidades de Conservação":"PARNA de Brasília",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":3005.194018,
+        "Área UC (ha)":42355.54,
+        "% da UC":7.0951616199,
+        "Data Última Atualização":1477353600000
+    },
+    {
+        "Unidades de Conservação":"PARNA de Pacaás Novos",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":12787.862666,
+        "Área UC (ha)":708669.90426,
+        "% da UC":1.804487899,
+        "Data Última Atualização":1479254400000
+    },
+    {
+        "Unidades de Conservação":"PARNA de São Joaquim",
+        "Bioma":"Mata Atlântica",
+        "Área Queimada (ha)":3410.162295,
+        "Área UC (ha)":45524.0,
+        "% da UC":7.4909109371,
+        "Data Última Atualização":1473465600000
+    },
+    {
+        "Unidades de Conservação":"PARNA do Araguaia",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":305337.961135,
+        "Área UC (ha)":555517.0,
+        "% da UC":54.9646475508,
+        "Data Última Atualização":1477440000000
+    },
+    {
+        "Unidades de Conservação":"PARNA do Cabo Orange",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":4466.490902,
+        "Área UC (ha)":657327.774953,
+        "% da UC":0.6794921913,
+        "Data Última Atualização":1481587200000
+    },
+    {
+        "Unidades de Conservação":"PARNA do Juruena",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":1063.037831,
+        "Área UC (ha)":1958014.4166999999,
+        "% da UC":0.0542916243,
+        "Data Última Atualização":1473120000000
+    },
+    {
+        "Unidades de Conservação":"PARNA do Monte Roraima",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":1360.363271,
+        "Área UC (ha)":116749.240115,
+        "% da UC":1.1652009638,
+        "Data Última Atualização":1452384000000
+    },
+    {
+        "Unidades de Conservação":"PARNA do Rio Novo",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":530.015325,
+        "Área UC (ha)":538151.951858,
+        "% da UC":0.0984880429,
+        "Data Última Atualização":1473552000000
+    },
+    {
+        "Unidades de Conservação":"PARNA do Viruá",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":80179.0075,
+        "Área UC (ha)":214952.49,
+        "% da UC":37.3008042382,
+        "Data Última Atualização":1460246400000
+    },
+    {
+        "Unidades de Conservação":"PARNA dos Campos Amazônicos",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":20221.6685,
+        "Área UC (ha)":961326.3773678265,
+        "% da UC":2.1035174917,
+        "Data Última Atualização":1474070400000
+    },
+    {
+        "Unidades de Conservação":"PARNA e Histórico do Monte Pascoal",
+        "Bioma":"Mata Atlântica",
+        "Área Queimada (ha)":703.965664,
+        "Área UC (ha)":22332.2,
+        "% da UC":3.1522450274,
+        "Data Última Atualização":1456358400000
+    },
+    {
+        "Unidades de Conservação":"PARNA Grande Sertão Veredas",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":1488.83,
+        "Área UC (ha)":230856.142987,
+        "% da UC":0.6449167784,
+        "Data Última Atualização":1478304000000
+    },
+    {
+        "Unidades de Conservação":"PARNA Mapinguari",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":21447.789207,
+        "Área UC (ha)":1776928.6499999999,
+        "% da UC":1.2070146546,
+        "Data Última Atualização":1476835200000
+    },
+    {
+        "Unidades de Conservação":"PARNA Serra da Cutia",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":2474.06724,
+        "Área UC (ha)":283503.495,
+        "% da UC":0.8726760988,
+        "Data Última Atualização":1473552000000
+    },
+    {
+        "Unidades de Conservação":"PARNA Serra da Mocidade",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":13024.997963,
+        "Área UC (ha)":359254.395152,
+        "% da UC":3.6255639844,
+        "Data Última Atualização":1460246400000
+    },
+    {
+        "Unidades de Conservação":"REBIO da Contagem",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":603.499729,
+        "Área UC (ha)":3411.71,
+        "% da UC":17.6890687954,
+        "Data Última Atualização":1471824000000
+    },
+    {
+        "Unidades de Conservação":"REBIO de Sooretama",
+        "Bioma":"Mata Atlântica",
+        "Área Queimada (ha)":884.104929,
+        "Área UC (ha)":27859.012733,
+        "% da UC":3.1734969845,
+        "Data Última Atualização":1457481600000
+    },
+    {
+        "Unidades de Conservação":"REBIO do Guaporé",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":30500.631203,
+        "Área UC (ha)":615776.33,
+        "% da UC":4.9531996793,
+        "Data Última Atualização":1478649600000
+    },
+    {
+        "Unidades de Conservação":"REBIO do Jaru",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":195.564784,
+        "Área UC (ha)":346864.198333,
+        "% da UC":0.0563807925,
+        "Data Última Atualização":1472601600000
+    },
+    {
+        "Unidades de Conservação":"REBIO Nascentes da Serra do Cachimbo",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":2270.951534,
+        "Área UC (ha)":342195.772904,
+        "% da UC":0.6636410248,
+        "Data Última Atualização":1473984000000
+    },
+    {
+        "Unidades de Conservação":"RESEX Chico Mendes",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":1737.046749,
+        "Área UC (ha)":931542.9399999999,
+        "% da UC":0.1864698528,
+        "Data Última Atualização":1473465600000
+    },
+    {
+        "Unidades de Conservação":"RESEX de Recanto das Araras de Terra Ronca",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":1639.271444,
+        "Área UC (ha)":12349.329852,
+        "% da UC":13.2741732843,
+        "Data Última Atualização":1480291200000
+    },
+    {
+        "Unidades de Conservação":"RESEX do Lago do Capana Grande",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":186.372893,
+        "Área UC (ha)":303761.090375,
+        "% da UC":0.0613550909,
+        "Data Última Atualização":1470528000000
+    },
+    {
+        "Unidades de Conservação":"RESEX do Rio Cajari",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":19531.67101,
+        "Área UC (ha)":532404.51024,
+        "% da UC":3.6685773006,
+        "Data Última Atualização":1482796800000
+    },
+    {
+        "Unidades de Conservação":"RESEX do Rio Ouro Preto",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":323.968917,
+        "Área UC (ha)":204633.089,
+        "% da UC":0.1583169753,
+        "Data Última Atualização":1471737600000
+    },
+    {
+        "Unidades de Conservação":"RESEX Verde para Sempre",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":22933.506466,
+        "Área UC (ha)":1289320.1299399999,
+        "% da UC":1.7787286441,
+        "Data Última Atualização":1482796800000
+    },
+    {
+        "Unidades de Conservação":"REVIS das Veredas do Oeste Baiano",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":4695.417659,
+        "Área UC (ha)":128048.99,
+        "% da UC":3.6668916006,
+        "Data Última Atualização":1478044800000
+    },
+    {
+        "Unidades de Conservação":"REVIS dos Campos de Palmas",
+        "Bioma":"Mata Atlântica",
+        "Área Queimada (ha)":3249.489943,
+        "Área UC (ha)":16594.286969,
+        "% da UC":19.5819799252,
+        "Data Última Atualização":1478217600000
+    },
+    {
+        "Unidades de Conservação":"TOTAL",
+        "Bioma":null,
+        "Área Queimada (ha)":1166740.9998610003,
+        "Área UC (ha)":null,
+        "% da UC":null,
+        "Data Última Atualização":null
+    }
+]

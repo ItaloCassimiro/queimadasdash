@@ -1,0 +1,26 @@
+[
+    {
+        "UC":"ESEC de Uruçuí-Una",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":null,
+        "Área UC (ha)":137148.0,
+        "% da UC":0.0,
+        "Data Última Atualização":null
+    },
+    {
+        "UC":"PARNA do Araguaia",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":226151.600836,
+        "Área UC (ha)":555517.832112,
+        "% da UC":40.7100524525,
+        "Data Última Atualização":1309910400000
+    },
+    {
+        "UC":"TOTAL",
+        "Bioma":null,
+        "Área Queimada (ha)":226151.600836,
+        "Área UC (ha)":null,
+        "% da UC":null,
+        "Data Última Atualização":null
+    }
+]

@@ -1,0 +1,398 @@
+[
+    {
+        "Unidades de Conservação":"ESEC da Terra do Meio",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":365.316263,
+        "Área UC (ha)":3373172.52,
+        "% da UC":0.0108300498,
+        "Data Última Atualização":1541289600000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"ESEC de Cuniã",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":1088.559555,
+        "Área UC (ha)":185313.609729,
+        "% da UC":0.5874147919,
+        "Data Última Atualização":1534636800000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"ESEC de Niquiá",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":71161.66,
+        "Área UC (ha)":284790.62,
+        "% da UC":24.9873608899,
+        "Data Última Atualização":1523577600000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"ESEC de Uruçuí-Una",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":19132.68,
+        "Área UC (ha)":137148.0,
+        "% da UC":13.9503893604,
+        "Data Última Atualização":1538438400000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"ESEC do Castanhão",
+        "Bioma":"Caatinga",
+        "Área Queimada (ha)":1513.108241,
+        "Área UC (ha)":12574.63,
+        "% da UC":12.0330239617,
+        "Data Última Atualização":1536105600000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"ESEC Serra Geral do Tocantins",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":141042.169941,
+        "Área UC (ha)":707087.5566107035,
+        "% da UC":19.9469172696,
+        "Data Última Atualização":1540425600000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"FLONA de Altamira",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":306.78,
+        "Área UC (ha)":723185.98,
+        "% da UC":0.0424206233,
+        "Data Última Atualização":1533600000000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"FLONA de Balata-Tufari",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":1103.92,
+        "Área UC (ha)":1052954.9199999999,
+        "% da UC":0.1048401958,
+        "Data Última Atualização":1530489600000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"FLONA de Cristópolis",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":328.796132,
+        "Área UC (ha)":12840.69,
+        "% da UC":2.5605799377,
+        "Data Última Atualização":1537228800000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"FLONA de Ipanema",
+        "Bioma":"Mata Atlântica",
+        "Área Queimada (ha)":11.37,
+        "Área UC (ha)":5384.82,
+        "% da UC":0.2111491192,
+        "Data Última Atualização":1530662400000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"FLONA de Macauã",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":13.603325,
+        "Área UC (ha)":176347.36,
+        "% da UC":0.0077139374,
+        "Data Última Atualização":null,
+        "Satélite":"Landsat "
+    },
+    {
+        "Unidades de Conservação":"FLONA de Roraima",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":1382.426755,
+        "Área UC (ha)":169570.47,
+        "% da UC":0.8152520631,
+        "Data Última Atualização":1522627200000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"FLONA de Santa Rosa do Purus",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":165.75107,
+        "Área UC (ha)":231556.88,
+        "% da UC":0.0715811467,
+        "Data Última Atualização":null,
+        "Satélite":"Landsat "
+    },
+    {
+        "Unidades de Conservação":"FLONA do Aripuanã",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":331.806381,
+        "Área UC (ha)":751302.17,
+        "% da UC":0.0441641718,
+        "Data Última Atualização":1539129600000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"FLONA do Bom Futuro",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":2909.813681,
+        "Área UC (ha)":97385.2524351024,
+        "% da UC":2.98794079,
+        "Data Última Atualização":1536624000000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"FLONA do Jamanxim",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":17203.86,
+        "Área UC (ha)":1301695.4099999999,
+        "% da UC":1.3216502008,
+        "Data Última Atualização":1536364800000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"PARNA da Chapada das Mesas",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":4045.109689,
+        "Área UC (ha)":159953.78,
+        "% da UC":2.5289240986,
+        "Data Última Atualização":null,
+        "Satélite":"Landsat "
+    },
+    {
+        "Unidades de Conservação":"PARNA da Chapada Diamantina",
+        "Bioma":"Caatinga",
+        "Área Queimada (ha)":3958.817617,
+        "Área UC (ha)":152143.91,
+        "% da UC":2.6020217418,
+        "Data Última Atualização":1540425600000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"PARNA da Chapada dos Veadeiros",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":13384.393549,
+        "Área UC (ha)":240586.56,
+        "% da UC":5.5632341013,
+        "Data Última Atualização":1538092800000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"PARNA da Serra da Canastra",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":44544.025135,
+        "Área UC (ha)":197809.0,
+        "% da UC":22.5187049806,
+        "Data Última Atualização":1538006400000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"PARNA da Serra das Confusões",
+        "Bioma":"Caatinga",
+        "Área Queimada (ha)":22306.626638,
+        "Área UC (ha)":823854.54,
+        "% da UC":2.7075928523,
+        "Data Última Atualização":1540425600000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"PARNA da Serra do Gandarela",
+        "Bioma":"Mata Atlântica",
+        "Área Queimada (ha)":516.367451,
+        "Área UC (ha)":31270.82,
+        "% da UC":1.6512756973,
+        "Data Última Atualização":1538611200000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"PARNA da Serra dos Orgãos ",
+        "Bioma":"Mata Atlântica",
+        "Área Queimada (ha)":64.557317,
+        "Área UC (ha)":20020.74,
+        "% da UC":0.3224522021,
+        "Data Última Atualização":1532908800000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"PARNA das Emas",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":4491.172462,
+        "Área UC (ha)":132787.86,
+        "% da UC":3.3822161619,
+        "Data Última Atualização":1532304000000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"PARNA das Nascentes do Rio Parnaíba",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":84336.751007,
+        "Área UC (ha)":724329.3169529052,
+        "% da UC":11.643426413,
+        "Data Última Atualização":1540425600000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"PARNA das Sempre Vivas",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":311.38,
+        "Área UC (ha)":124155.899316,
+        "% da UC":0.2507975873,
+        "Data Última Atualização":1533945600000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"PARNA de Pacaás Novos",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":4706.298988,
+        "Área UC (ha)":708669.9,
+        "% da UC":0.6641031301,
+        "Data Última Atualização":1536796800000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"PARNA do Araguaia",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":138454.911257,
+        "Área UC (ha)":555517.0,
+        "% da UC":24.9236137251,
+        "Data Última Atualização":1538697600000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"PARNA do Boqueirão da Onça",
+        "Bioma":"Caatinga",
+        "Área Queimada (ha)":3224.423648,
+        "Área UC (ha)":346908.1,
+        "% da UC":0.9294748805,
+        "Data Última Atualização":1536451200000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"PARNA do Juruena",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":64.31,
+        "Área UC (ha)":1958014.4099999999,
+        "% da UC":0.0032844498,
+        "Data Última Atualização":1535760000000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"PARNA do Rio Novo",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":408.664484,
+        "Área UC (ha)":538157.14,
+        "% da UC":0.0759377612,
+        "Data Última Atualização":1535760000000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"PARNA dos Campos Amazônicos",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":26933.832846,
+        "Área UC (ha)":961326.64,
+        "% da UC":2.8017358227,
+        "Data Última Atualização":1537401600000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"PARNA Mapinguari",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":2241.437716,
+        "Área UC (ha)":1776928.59892,
+        "% da UC":0.1261411245,
+        "Data Última Atualização":1540598400000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"REBIO da Mata Escura",
+        "Bioma":"Mata Atlântica",
+        "Área Queimada (ha)":443.74,
+        "Área UC (ha)":50892.38,
+        "% da UC":0.8719183501,
+        "Data Última Atualização":1538092800000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"REBIO das Nascentes da Serra do Cachimbo",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":2325.49,
+        "Área UC (ha)":342195.77,
+        "% da UC":0.6795788271,
+        "Data Última Atualização":1538611200000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"REBIO do Guaporé",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":18217.744357,
+        "Área UC (ha)":615776.3199999999,
+        "% da UC":2.9585003134,
+        "Data Última Atualização":1538092800000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"REBIO do Lago Piratuba",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":231.447624,
+        "Área UC (ha)":392474.84,
+        "% da UC":0.0589713277,
+        "Data Última Atualização":1541116800000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"REBIO do Manicoré",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":716.663965,
+        "Área UC (ha)":359137.54,
+        "% da UC":0.1995513933,
+        "Data Última Atualização":1538784000000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"RESEX Arapixi",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":113.5,
+        "Área UC (ha)":133711.51,
+        "% da UC":0.0848842407,
+        "Data Última Atualização":1539907200000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"RESEX Chico Mendes",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":6949.902096,
+        "Área UC (ha)":931542.9399999999,
+        "% da UC":0.7460635251,
+        "Data Última Atualização":null,
+        "Satélite":"Landsat "
+    },
+    {
+        "Unidades de Conservação":"RESEX de Recanto das Araras de Terra Ronca",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":5763.329441,
+        "Área UC (ha)":12349.329807,
+        "% da UC":46.6691677287,
+        "Data Última Atualização":1538092800000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"RESEX do Rio Cajari",
+        "Bioma":"Amazônia",
+        "Área Queimada (ha)":3218.483206,
+        "Área UC (ha)":532404.510529,
+        "% da UC":0.6045183958,
+        "Data Última Atualização":1540684800000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"REVIS das Veredas do Oeste Baiano",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":321.24,
+        "Área UC (ha)":128050.55,
+        "% da UC":0.2508696761,
+        "Data Última Atualização":1531785600000,
+        "Satélite":"Modis"
+    },
+    {
+        "Unidades de Conservação":"TOTAL",
+        "Bioma":null,
+        "Área Queimada (ha)":650356.241837,
+        "Área UC (ha)":null,
+        "% da UC":null,
+        "Data Última Atualização":null,
+        "Satélite":null
+    }
+]

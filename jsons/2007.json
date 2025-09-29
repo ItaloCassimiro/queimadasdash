@@ -1,0 +1,106 @@
+[
+    {
+        "UC":"ESEC de Uruçuí-Una",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":47069.578533,
+        "Área UC (ha)":137148.0,
+        "% da UC":34.3202806698,
+        "Data Última Atualização":1190592000000
+    },
+    {
+        "UC":"ESEC Serra Geral do Tocantins",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":349863.799479,
+        "Área UC (ha)":708212.0,
+        "% da UC":49.4009984975,
+        "Data Última Atualização":1187654400000
+    },
+    {
+        "UC":"PARNA da Chapada das Mesas",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":26392.846195,
+        "Área UC (ha)":159951.0,
+        "% da UC":16.5005821752,
+        "Data Última Atualização":1190419200000
+    },
+    {
+        "UC":"PARNA da Serra da Canastra",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":86469.924499,
+        "Área UC (ha)":197809.0,
+        "% da UC":43.7138474483,
+        "Data Última Atualização":1188604800000
+    },
+    {
+        "UC":"PARNA das Nascentes do Rio Parnaíba",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":62075.008133,
+        "Área UC (ha)":724324.0,
+        "% da UC":8.5700609303,
+        "Data Última Atualização":1187654400000
+    },
+    {
+        "UC":"PARNA do Araguaia",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":341764.04734,
+        "Área UC (ha)":555517.0,
+        "% da UC":61.521798134,
+        "Data Última Atualização":1191024000000
+    },
+    {
+        "UC":"PARNA Grande Sertão Veredas",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":56527.308333,
+        "Área UC (ha)":230853.0,
+        "% da UC":24.4862784252,
+        "Data Última Atualização":1190592000000
+    },
+    {
+        "UC":"APA dos Meandros do Rio Araguaia",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":119319.469777,
+        "Área UC (ha)":357126.0,
+        "% da UC":33.4110285381,
+        "Data Última Atualização":1191024000000
+    },
+    {
+        "UC":"PARNA da Chapada dos Veadeiros",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":54465.437181,
+        "Área UC (ha)":64795.37,
+        "% da UC":84.0576065558,
+        "Data Última Atualização":1191196800000
+    },
+    {
+        "UC":"PARNA de Brasília",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":14152.823719,
+        "Área UC (ha)":30000.0,
+        "% da UC":47.1760790633,
+        "Data Última Atualização":1191196800000
+    },
+    {
+        "UC":"PARNA das Emas",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":4651.678643,
+        "Área UC (ha)":132642.07,
+        "% da UC":3.5069406283,
+        "Data Última Atualização":1190246400000
+    },
+    {
+        "UC":"PARNA da Chapada dos Guimarães",
+        "Bioma":"Cerrado",
+        "Área Queimada (ha)":6442.650823,
+        "Área UC (ha)":32662.0,
+        "% da UC":19.7252183669,
+        "Data Última Atualização":1191456000000
+    },
+    {
+        "UC":"TOTAL*",
+        "Bioma":null,
+        "Área Queimada (ha)":1169194.572655,
+        "Área UC (ha)":null,
+        "% da UC":null,
+        "Data Última Atualização":null
+    }
+]
